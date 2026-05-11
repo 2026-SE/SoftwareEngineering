@@ -41,7 +41,7 @@
 | A1. 탈퇴 취소 시 | 회원이 취소 버튼을 클릭하면 탈퇴가 중단되고 이전 화면으로 돌아간다. |
 
 
-### Use case description: 설문 등록 (Survey Create)
+### Use case description: 설문 등록 (Create Survey)
 | Actor Action | System Response |
 |---|---|
 | | 1. 시스템이 설문 제목, 설문 설명, 설문 시작 시각과 설문 종료 시각, 설문 문항과 응답 항목을 입력할 수 있는 화면을 표시한다. |
